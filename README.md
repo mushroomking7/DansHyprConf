@@ -16,6 +16,6 @@ My personal Hyprland config.
 
 ### Installation guide:
 
-1. Download v2.0 and extract the contents into the hyprland config folder. Typically found in '/home/yourusername/.config/hypr/'
+1. Download v2.0 and extract the contents into the hyprland config folder. Typically found in `/home/yourusername/.config/hypr/`
 
-2. Make the hyprpaper script run on startup. If you are using systemdthat would be 'systemctl enable hyprpaper.service'
+2. Make the hyprpaper script run on startup. If you are using systemd that would be `systemctl enable hyprpaper.service`
